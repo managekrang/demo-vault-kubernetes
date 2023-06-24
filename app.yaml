@@ -9,7 +9,7 @@ spec:
   project: demo-vault
   source:
     path: production
-    repoURL: https://github.com/lanbingcloud/demo-vault-kubernetes.git
+    repoURL: https://github.com/managekrang/demo-vault-kubernetes.git
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc

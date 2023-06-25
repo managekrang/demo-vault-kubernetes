@@ -6,7 +6,7 @@ metadata:
   namespace: argocd
 spec:
   rules:
-  - host: argocd.119-8-58-20.nip.io
+  - host: argocd.42-194-247-57.nip.io
     http:
       paths:
       - path: /

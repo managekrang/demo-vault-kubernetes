@@ -6,7 +6,7 @@ metadata:
   namespace: argocd
 spec:
   rules:
-  - host: argocd.119-8-58-20.nip.io
+  - host: da1037dc-100a-4940-b116-64a27f4e4239-10-244-5-170-30443.papa.r.killercoda.com
     http:
       paths:
       - path: /

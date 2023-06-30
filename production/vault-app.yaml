@@ -18,8 +18,7 @@ spec:
         injector:
           enabled: true
           authPath: auth/host-cluster
-          #externalVaultAddr: http://10.0.8.14:8200
-          externalVaultAddr: http://778f46a1-8202-4fec-b44c-a96fb6899ef8-10-244-7-84-8200.papa.r.killercoda.com
+          externalVaultAddr: http://10.0.8.14:8200
     server: https://kubernetes.default.svc
     namespace: vault
   ignoreDifferences:

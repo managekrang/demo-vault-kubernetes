@@ -8,7 +8,7 @@ metadata:
 spec:
   project: demo-vault
   source:
-    path: production
+    path: ff
     repoURL: https://github.com/managekrang/demo-vault-kubernetes.git
     targetRevision: HEAD
   destination:

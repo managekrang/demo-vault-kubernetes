@@ -13,6 +13,6 @@ spec:
   data:
   - secretKey: lookatme
     remoteRef:
-      #key: vault/es
-      key: es
+      key: vault/es
+      #key: es
       property: key
